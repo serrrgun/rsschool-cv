@@ -15,12 +15,13 @@
     * Metodology BEM
 
 ## Code examples (LATEST)
-    https://github.com/serrrgun/webdev
+    http://github.com/serrrgun/webdev
 
 ## Experience 
     * Outsourcing company [Лига А.](https://liga-a.ru/) 
     * Web Studio [narisuemvse.by](https://narisuemvse.by/)
     * Web Studio [qlab.by](https://qlab.by/)
+
 ## Education 
     Graduated from the [HTML Academy](https://htmlacademy.ru/) course "front-end developer" profession
 
