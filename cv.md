@@ -1,9 +1,10 @@
 ## Sergey Turichshev 
 
 ## Contact:
-    * telegram: https://t.me/serrrgun
-    * vk:       https://vk.com/roadtoit
-    * skype:    live:a0207b3e5abc687f.
+    * telegram: <https://t.me/serrrgun>
+    * vk:       <https://vk.com/roadtoit>
+    * skype:    <live:a0207b3e5abc687f.>
+    * e-mail:   <serrrgun@mail.ru>
 
 ## Summary 
     Learn JavaScript very well. And everything related to front-end development. In the future, become a good full-stack developer. Learn something new. Never stop.
@@ -16,7 +17,7 @@
 
 ## Code examples (LATEST)
     
-    https://github.com/serrrgun/webdev
+    <https://github.com/serrrgun/webdev>
 
 ## Experience 
     * Outsourcing company [Лига А.](https://liga-a.ru/) 
