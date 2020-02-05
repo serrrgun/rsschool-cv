@@ -15,7 +15,8 @@
     * Metodology BEM
 
 ## Code examples (LATEST)
-    http://github.com/serrrgun/webdev
+    
+    https://github.com/serrrgun/webdev
 
 ## Experience 
     * Outsourcing company [Лига А.](https://liga-a.ru/) 
