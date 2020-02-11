@@ -1,14 +1,16 @@
 ## Sergey Turichshev 
 
 ## Contact:
-    
-+ telegram: https://t.me/serrrgun
-+ vk:       https://vk.com/roadtoit
+
 + skype:    live:a0207b3e5abc687f.
-+ e-mail:   serrrgun@mail.ru
++ e-mail:   serrrgun@mail.ru    
++ [telegram](https://t.me/serrrgun)
++ [vk](https://vk.com/roadtoit)
 
 ## Summary 
-    Learn JavaScript very well. And everything related to front-end development. In the future, become a good full-stack developer. Learn something new. Never stop.
+Learn JavaScript very well. And everything related to front-end development. 
+In the future, become a good full-stack developer. Learn something new. 
+Never stop.
 
 ## Skills 
     
@@ -32,5 +34,5 @@ https://github.com/serrrgun/webdev
 Graduated from the [HTML Academy](https://htmlacademy.ru/) course "front-end developer" profession
 
 ## English 
-    * A-1 (Elementary)
-    * I study with a tutor in English
+* A-1 (Elementary)
+* I study with a tutor in English
