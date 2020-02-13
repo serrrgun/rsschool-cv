@@ -308,6 +308,14 @@ h2 {
     z-index: 1;
 }
 
+@media (max-width: 400px) {
+    .social__link {
+        width: 55px;
+        height: 55px;
+        font-size: 35px;
+    }
+}
+
 /* skills */
 
 .skills__list {
