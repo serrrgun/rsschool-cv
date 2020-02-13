@@ -1,3 +1,3 @@
 # rsschool-cv
 
- https://serrrgun.github.io/rsschool-cv/cv
+ https://serrrgun.github.io/rsschool-cv/
