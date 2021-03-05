@@ -10,6 +10,12 @@ img {
     height: auto;
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 p {
     margin: 0;
     padding: 0;
@@ -57,7 +63,8 @@ h2 {
         "name  photo"
         "experience  summary"
         "experience  education"
-        "community  skills";
+        "community  skills"
+        "footer exampels"
 }
 
 @media (max-width: 900px) {
@@ -72,7 +79,9 @@ h2 {
             "experience"
             "education"
             "skills"
-            "community";
+            "community"
+            "exampels"
+            "footer";
         box-shadow: none;
     }
 }
@@ -222,6 +231,10 @@ h2 {
 
 /* social */
 
+.social li {
+    display: inline-block;
+}
+
 .social__link {
     position: relative; 
     display: inline-block;
@@ -310,9 +323,9 @@ h2 {
 
 @media (max-width: 400px) {
     .social__link {
-        width: 55px;
-        height: 55px;
-        font-size: 35px;
+        width: 52px;
+        height: 52px;
+        font-size: 30px;
     }
 }
 
@@ -357,4 +370,44 @@ h2 {
 
 .community__title {
     margin-bottom: 50px;
+}
+
+/* exmpels */
+
+.exampels__link {
+    color: #428af6;
+    text-decoration: none;
+    transition: .5s ease-in-out;
+}
+
+.exampels__link:hover,
+.exampels__link:active {
+    color: #428a;
+    transition: .5s ease-in-out;
+}
+
+/* footer */
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.footer__logo {
+    display: inline-block;
+    width: 40%;
+    transition: .3s ease-in;
+}
+
+.footer__logo:hover,
+.footer__logo:active {
+    opacity: .8;
+    transform: scale(.95);
+}   
+
+@media (max-width: 900px) {
+    .footer__logo {
+        width: 30%;
+    }
 }
